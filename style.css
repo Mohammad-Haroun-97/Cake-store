@@ -1,0 +1,37 @@
+main{
+  background-color:  burlywood;
+}
+
+Header{text-align: center;
+margin: 0%}
+
+img{width:300px;
+height:200px ;}
+
+section{display: inline-block;
+width: 333px;
+  height: 333px;
+  text-align: center;
+  margin: 30px;
+  }
+ul {
+  display: inline-block;
+}
+li{
+  display: inline-block;
+  margin-right: 75px
+}
+  
+h3{float: left;}
+
+
+  nav ul{float: right;
+  margin-right: 100px}
+  
+  a{
+ text-decoration: none;
+ }
+footer { height: 150px;
+  background-color:gray;
+}
+  
