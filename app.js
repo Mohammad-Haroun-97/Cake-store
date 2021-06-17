@@ -8,9 +8,12 @@ else {document.write("<p> Bad choice </p>")}
 
 
 
+
+
 var B = prompt("This Shop require your phone number to access, Do you agree with that? )?")
 
 if(B=="yes"){alert("welcome to our shop")}
+
 
 alert("for the following question guess what is the right number from 49, 55 or 70")
 var x = prompt("guess how many kinds that we have in our shop ?");
@@ -29,6 +32,8 @@ for (i = 0; i <= numbOforder; i++) {document.write(
 }
 
   
+
+
 
 
 
