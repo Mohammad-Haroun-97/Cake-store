@@ -24,7 +24,7 @@ while (x !=49 ) {
 var numbOforder = prompt("How many pieces do you want to order ?")
 
 for (i = 0; i < numbOforder; i++) {document.write(
-  // // "<div>" + 
+  
 '<div> <img src="https://rakskitchen.net/wp-content/uploads/2021/04/No-bake-biscoff-cheese-1.jpg" alt="No bake cheesecake"></div>'
   // //     "<img src='https://rakskitchen.net/wp-content/uploads/2021/04/No-bake-biscoff-cheese-1.jpg" alt="No bake cheesecake' width="500" height="250">" +
   // //     "</div>" 
@@ -32,6 +32,7 @@ for (i = 0; i < numbOforder; i++) {document.write(
 }
 
   
+
 var numofvists = prompt('how many times did you come to our shop?')
 
 function vists (x){
@@ -45,6 +46,9 @@ for (var i = 0; i < x ; i++) {
 
  
 vists(numofvists);
+
+
+
 
 
 
