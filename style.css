@@ -32,6 +32,8 @@ h3{float: left;}
  text-decoration: none;
  }
 footer { height: 150px;
-  background-color:gray;
+  background-color: 
+hsl(200, 95%, 55%)
+;
 }
   
